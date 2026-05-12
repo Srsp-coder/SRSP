@@ -1,0 +1,286 @@
+{
+  "personal": {
+    "name": "Sai Pranav S R",
+    "tagline": "Full-Stack Developer & AI Enthusiast",
+    "roles": [
+      "Full-Stack Developer",
+      "AI Integration Engineer",
+      "React & FastAPI Developer",
+      "Open Source Contributor"
+    ],
+    "summary": "Full-stack Computer Science undergraduate experienced in building end-to-end web and AI-driven applications using React and FastAPI. Skilled in REST API design, async backend systems, database management, and AI integration. Comfortable owning features across frontend, backend, and deployment workflows.",
+    "email": "srsp12032006@gmail.com",
+    "phone": "+91 7200719569",
+    "github": "https://github.com/Srsp-coder",
+    "linkedin": "https://www.linkedin.com/in/sai-pranav-s-r-6038982b2/",
+    "leetcode": "https://leetcode.com/u/SRSP_12/",
+    "portfolio": "https://srsp-portfolio.netlify.app/",
+    "resumeLink": "./resume.pdf",
+    "stats": [
+      {
+        "label": "Projects Built",
+        "value": "10+"
+      },
+      {
+        "label": "Hackathons",
+        "value": "15+"
+      },
+      {
+        "label": "CGPA",
+        "value": "8.6"
+      },
+      {
+        "label": "Technologies",
+        "value": "15+"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "category": "Frontend",
+      "icon": "FaReact",
+      "items": [
+        "React.js",
+        "Next.js",
+        "JavaScript (ES6+)",
+        "TypeScript"
+      ]
+    },
+    {
+      "category": "Backend",
+      "icon": "FaPython",
+      "items": [
+        "Python",
+        "FastAPI",
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "Async Programming"
+      ]
+    },
+    {
+      "category": "Database",
+      "icon": "FaDatabase",
+      "items": [
+        "PostgreSQL",
+        "Supabase",
+        "MongoDB"
+      ]
+    },
+    {
+      "category": "Backend Tools",
+      "icon": "FaTools",
+      "items": [
+        "Pydantic",
+        "SQLAlchemy",
+        "Uvicorn"
+      ]
+    },
+    {
+      "category": "AI Integration",
+      "icon": "FaBrain",
+      "items": [
+        "Gemini API",
+        "LLM-based Workflows"
+      ]
+    },
+    {
+      "category": "DevOps & Tools",
+      "icon": "FaDocker",
+      "items": [
+        "Docker",
+        "GitHub Actions",
+        "Git",
+        "GitHub",
+        "Postman",
+        "npm"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "PayFluxa",
+      "subtitle": "Financial Service Platform",
+      "description": "Built full-stack platform with FastAPI backend using Pydantic, SQLAlchemy, Uvicorn for scalable API services and async request handling. Integrated Gemini API and Supabase for data storage, validation, and real-time processing.",
+      "techStack": [
+        "React.js",
+        "TypeScript",
+        "FastAPI",
+        "PostgreSQL",
+        "Supabase",
+        "Gemini API"
+      ],
+      "githubLink": "https://github.com/Team-BrawlDevs/PayFluxa",
+      "liveLink": null
+    },
+    {
+      "title": "MindBridge",
+      "subtitle": "AI Content Application",
+      "description": "Developed end-to-end AI application with React frontend and FastAPI backend for dynamic content generation. Designed REST APIs and managed data flow between frontend, backend, Supabase, and AI services.",
+      "techStack": [
+        "Next.js",
+        "React",
+        "FastAPI",
+        "Supabase",
+        "Gemini API"
+      ],
+      "githubLink": "https://github.com/Team-BrawlDevs/MindBridge",
+      "liveLink": null
+    },
+    {
+      "title": "Famlytics",
+      "subtitle": "Data Management System",
+      "description": "Built full-stack dashboard with reusable components and structured UI for managing user data. Implemented REST API integration and database schema for efficient data processing and retrieval.",
+      "techStack": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "PostgreSQL",
+        "Supabase"
+      ],
+      "githubLink": "https://github.com/Srsp-coder/Famlytics",
+      "liveLink": null
+    },
+    {
+      "title": "Dial-To-Grow",
+      "subtitle": "Voice-First AI Rural Empowerment Platform",
+      "description": "Developed an AI-powered multilingual voice platform enabling rural users to access mentorship, government services, and career guidance through conversational AI. Built scalable voice-based workflows with real-time translation, mentor matching, AI moderation, and offline accessibility features for inclusive digital empowerment.",
+      "techStack": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Python",
+        "Speech-to-Text",
+        "Translation APIs",
+        "AI/ML",
+        "Supabase"
+      ],
+      "githubLink": "https://github.com/Team-BrawlDevs/Dial-To-Grow",
+      "liveLink": null
+    },
+    {
+      "title": "Walmart AI Shopping Assistant",
+      "subtitle": "AI-Powered Smart Retail Platform",
+      "description": "Built an AI-first shopping platform enhancing retail experiences through personalized recommendations, voice assistance, AR virtual try-ons, and collaborative family shopping. Integrated real-time product support, AI-driven meal planning, image-based product search, and seamless checkout workflows for an interactive and frictionless e-commerce experience.",
+      "techStack": [
+        "React.js",
+        "Tailwind CSS",
+        "Node.js",
+        "Supabase",
+        "Groq API",
+        "LLaMA-4",
+        "WebRTC",
+        "Python",
+        "PyTorch",
+        "TorchVision",
+        "Razorpay"
+      ],
+      "githubLink": "https://github.com/Team-BrawlDevs/walmart",
+      "liveLink": null
+    },
+    {
+      "title": "CivicSense",
+      "subtitle": "Urban Policy Simulation & Digital Twin Platform",
+      "description": "Developed a ward-level digital twin platform enabling urban planners to simulate and evaluate policy interventions through real-time infrastructure modeling and traffic impact analysis. Implemented AI-assisted scenario simulation, route-risk evaluation, and interactive geospatial visualization using graph-based urban network analysis.",
+      "techStack": [
+        "Python",
+        "FastAPI",
+        "OSMnx",
+        "NetworkX",
+        "GeoPandas",
+        "Shapely",
+        "React.js",
+        "TypeScript",
+        "Vite",
+        "Tailwind CSS",
+        "Leaflet",
+        "Google Gemini"
+      ],
+      "githubLink": "https://github.com/Team-BrawlDevs/CivicSense",
+      "liveLink": null
+    }
+  ],
+  "achievements": [
+    {
+      "title": "ITRIX '26",
+      "position": "First Place 🥇",
+      "description": "Won first place at ITRIX '26 Project Presentation",
+      "certificateImage": "/ITRIX.jpg",
+      "linkedinLink": "https://www.linkedin.com/posts/sai-pranav-s-r-6038982b2_itrix26-annauniversity-innovation-ugcPost-7444270204731215872-l1VS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs80mMBBcadVNGLW8hzwBC8lg8n6vBogRU",
+      "projectLink": "https://github.com/Team-BrawlDevs/PayFluxa"
+    },
+    {
+      "title": "Zenith 5.0 '26",
+      "position": "Special Mention ⭐",
+      "description": "Received special mention at Zenith 5.0. Top 14 out of 190+ teams.",
+      "certificateImage": null,
+      "linkedinLink": "https://www.linkedin.com/posts/sai-pranav-s-r-6038982b2_happy-to-share-that-our-project-%F0%9D%97%A3%F0%9D%97%AE%F0%9D%98%86%F0%9D%97%99%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%85%F0%9D%97%AE-ugcPost-7440251590089019392-8b6c?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs80mMBBcadVNGLW8hzwBC8lg8n6vBogRU",
+      "projectLink": "https://github.com/Team-BrawlDevs/PayFluxa"
+    },
+    {
+      "title": "AI for All Ideathon",
+      "position": "Finalist 🏅",
+      "description": "Finalist at NIT Trichy's AI for All Ideathon. Top 50 out of 500+ teams.",
+      "certificateImage": "/NIT Trichy.png",
+      "linkedinLink": "https://www.linkedin.com/posts/sai-pranav-s-r-6038982b2_aiforall-indiaaimission-aiimpactsummit-ugcPost-7430157861521084416-3343?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs80mMBBcadVNGLW8hzwBC8lg8n6vBogRU",
+      "projectLink": "https://github.com/Team-BrawlDevs/CivicSense"
+    },
+    {
+      "title": "AIVentra",
+      "position": "Finalist 🏅",
+      "description": "Finalist at AIVentra by HackHere community. Top 50 out of 345+ teams.",
+      "certificateImage": "/AIVentra.jpg",
+      "linkedinLink": "https://www.linkedin.com/posts/sai-pranav-s-r-6038982b2_aiventra-hackhere-artificialintelligence-ugcPost-7459523088460746752-tj5s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs80mMBBcadVNGLW8hzwBC8lg8n6vBogRU",
+      "projectLink": "https://github.com/Team-BrawlDevs/forensic-triage-system"
+    },
+    {
+      "title": "ET Gen-AI Hackathon",
+      "position": "Semi-Finalist 🏅",
+      "description": "Semi-Finalist at Economic Times Gen-AI Hackathon. Top 6000 out of 50,000+ teams.",
+      "certificateImage": "/ET GenAI.jpg",
+      "linkedinLink": "https://www.linkedin.com/posts/sai-pranav-s-r-6038982b2_ai-genai-multiagentsystems-ugcPost-7458579648332042240-0Pzm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs80mMBBcadVNGLW8hzwBC8lg8n6vBogRU",
+      "projectLink": "https://github.com/Team-BrawlDevs/FinTraxion"
+    },
+    
+    {
+      "title": "Hackatone — IIT Delhi",
+      "position": "Semifinalist 🎯",
+      "description": "Semifinalist at Hackatone organized by IIT Delhi",
+      "certificateImage": "/Screenshot 2026-05-12 204952.png",
+      "linkedinLink": null,
+      "projectLink": "https://github.com/Team-BrawlDevs/Dial-To-Grow"
+    },
+    {
+      "title": "OpenBuild Hackathon",
+      "position": "Finalist 🏅",
+      "description": "Finalist at OpenBuild Hackathon",
+      "certificateImage": null,
+      "linkedinLink": null,
+      "projectLink": "https://github.com/Team-BrawlDevs/PayFluxa"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Shiv Nadar University, Chennai",
+      "degree": "B.Tech CSE (IoT)",
+      "year": "Expected 2027",
+      "score": "CGPA: 8.6",
+      "icon": "🎓"
+    },
+    {
+      "institution": "St. John's Public School",
+      "degree": "Class XII",
+      "year": "2023",
+      "score": "92.4%",
+      "icon": "🏫"
+    },
+    {
+      "institution": "Sairam Vidyalaya CBSE",
+      "degree": "Class X",
+      "year": "2021",
+      "score": "94.4%",
+      "icon": "🏫"
+    }
+  ]
+}
