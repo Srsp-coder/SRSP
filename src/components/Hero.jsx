@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { FiGithub, FiLinkedin, FiDownload, FiExternalLink } from 'react-icons/fi';
 import { SiLeetcode } from 'react-icons/si';
-import { useTheme } from '../context/ThemeContext';
+import { useTheme } from '../Context/ThemeContext';
 import data from '../data/portfolioData.json';
 
 export default function Hero() {

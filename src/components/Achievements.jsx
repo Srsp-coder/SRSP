@@ -1,6 +1,6 @@
 import { motion, useInView, AnimatePresence } from 'framer-motion';
 import { useRef, useState } from 'react';
-import { useTheme } from '../context/ThemeContext';
+import { useTheme } from '../Context/ThemeContext';
 import { FiLinkedin, FiExternalLink, FiX, FiAward } from 'react-icons/fi';
 import data from '../data/portfolioData.json';
 

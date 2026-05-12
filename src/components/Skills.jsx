@@ -1,6 +1,6 @@
 import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
-import { useTheme } from '../context/ThemeContext';
+import { useTheme } from '../Context/ThemeContext';
 import data from '../data/portfolioData.json';
 import {
   FaReact, FaPython, FaDatabase, FaTools, FaBrain, FaDocker
